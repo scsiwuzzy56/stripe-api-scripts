@@ -1,2 +1,6 @@
 # stripe-api-scripts
- testing 
+
+
+This space is for testing PHP scripts wrote to interface with Stripe API
+
+
